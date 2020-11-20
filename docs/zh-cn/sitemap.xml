@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jmiyamoto-sec.github.io/zh-cn/about/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jmiyamoto-sec.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://jmiyamoto-sec.github.io/zh-cn/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://jmiyamoto-sec.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,6 +56,20 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://jmiyamoto-sec.github.io/zh-cn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jmiyamoto-sec.github.io/zh-cn/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jmiyamoto-sec.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://jmiyamoto-sec.github.io/zh-cn/contact/"
                 />
   </url>
   
