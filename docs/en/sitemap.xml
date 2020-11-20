@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/posts/my-first-post/</loc>
+    <loc>https://jmiyamoto-sec.github.io/blog/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/posts/</loc>
+    <loc>https://jmiyamoto-sec.github.io/blog/my-first-post/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/posts/not-ready-yet/</loc>
+    <loc>https://jmiyamoto-sec.github.io/blog/not-ready-yet/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
   </url>
   
@@ -45,11 +45,6 @@
                 hreflang="en"
                 href="https://jmiyamoto-sec.github.io/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
