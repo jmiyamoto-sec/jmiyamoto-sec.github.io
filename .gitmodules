@@ -1,0 +1,13 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "hugo-future-imperfect-slim"]
+	path = hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "public"]
+	path = public
+	url = https://github.com/jmiyamoto-sec/jmiyamoto-sec.github.io.git
+	branch = master
