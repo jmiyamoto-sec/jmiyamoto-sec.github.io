@@ -10,6 +10,7 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
 publishDir = "docs"
+ignoreErrors = ["error-remote-getjson"]
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -62,7 +63,7 @@ publishDir = "docs"
       alt                 = "DSO"
 
   [params.sidebar]
-    about               = "This site is focused on data security related content (open source preferred). "
+    about               = "This site focuses on data security related content (open source preferred)."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true

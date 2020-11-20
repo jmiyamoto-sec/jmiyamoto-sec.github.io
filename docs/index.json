@@ -14,7 +14,7 @@
     "title": "About",
     "date": "",
     "description": "About this site",
-    "body": "This site is focused on data security related content (open source preferred) such as NAS, Self-hosted cloud storage, data loss prevention solutions and ransomware recover.\nThanks for the Hugo template made by pacollins.\n https://github.com/pacollins/hugo-future-imperfect-slim  Thanks for Hugo which made this site possible.\n",
+    "body": "This site focuses on data security related content (open source preferred) such as NAS, Self-hosted cloud storage, data loss prevention solutions and ransomware recover.\nThanks for the Hugo template made by pacollins.\n https://github.com/pacollins/hugo-future-imperfect-slim  Thanks for Hugo which made this site possible.\n",
     "ref": "/about/"
   },{
     "title": "Markdown Syntax Guide",

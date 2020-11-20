@@ -6,7 +6,7 @@ date = "2020-11-19"
 layout = "about"
 +++
 
-This site is focused on data security related content (open source preferred) such as NAS, Self-hosted cloud storage, data loss prevention solutions and ransomware recover. 
+This site focuses on data security related content (open source preferred) such as NAS, Self-hosted cloud storage, data loss prevention solutions and ransomware recover. 
 
 Thanks for the Hugo template made by [pacollins](https://github.com/pacollins/).
 
