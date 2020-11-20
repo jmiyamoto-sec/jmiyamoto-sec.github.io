@@ -1,1 +1,13 @@
-[]
+[{
+    "title": "Hello World, This is DataSec Outpost.",
+    "date": "",
+    "description": "",
+    "body": "test A test post.\n",
+    "ref": "/posts/my-first-post/"
+  },{
+    "title": "This site is not ready yet.",
+    "date": "",
+    "description": "",
+    "body": "Thanks to pacollins for the amazing template: hugo-future-imperfect-slim\nStill testing the platform, in the meanwhile many links are broken. I\u0026rsquo;ll fix that very soon.\n",
+    "ref": "/posts/not-ready-yet/"
+  }]

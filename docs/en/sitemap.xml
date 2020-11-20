@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jmiyamoto-sec.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-11-19T17:46:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmiyamoto-sec.github.io/posts/</loc>
+    <lastmod>2020-11-19T17:46:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jmiyamoto-sec.github.io/</loc>
+    <lastmod>2020-11-19T17:46:17-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://jmiyamoto-sec.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jmiyamoto-sec.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jmiyamoto-sec.github.io/posts/not-ready-yet/</loc>
+    <lastmod>2020-11-19T17:46:17-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jmiyamoto-sec.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,20 +57,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jmiyamoto-sec.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jmiyamoto-sec.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://jmiyamoto-sec.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jmiyamoto-sec.github.io/"
                 />
   </url>
   
