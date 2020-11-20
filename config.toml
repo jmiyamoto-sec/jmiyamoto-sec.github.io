@@ -62,7 +62,7 @@ publishDir = "docs"
       alt                 = "DSO"
 
   [params.sidebar]
-    about               = "This site collects information on data security. "
+    about               = "This site is focused on data security related content (open source preferred). "
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
