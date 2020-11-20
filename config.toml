@@ -139,7 +139,7 @@ publishDir = "docs"
 
 [social]
   # Coding Communities
-  github                = "https://github.com/jmiyamoto-sec"
+  github                = "jmiyamoto-sec"
 #  stackoverflow         = "" # User Number
 #  bitbucket             = ""
 #  jsfiddle              = ""
