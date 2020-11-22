@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The DataSec Outpost</title>
-    <link>https://jmiyamoto-sec.github.io/zh-cn/</link>
+    <link>https://datasecoutpost.com/zh-cn/</link>
     <description>Recent content on The DataSec Outpost</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://jmiyamoto-sec.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://datasecoutpost.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guanyu</title>
-      <link>https://jmiyamoto-sec.github.io/zh-cn/about/</link>
+      <link>https://datasecoutpost.com/zh-cn/about/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jmiyamoto-sec.github.io/zh-cn/about/</guid>
+      <guid>https://datasecoutpost.com/zh-cn/about/</guid>
       <description>Ma shang xie&amp;hellip;</description>
     </item>
     
     <item>
       <title>联络</title>
-      <link>https://jmiyamoto-sec.github.io/zh-cn/contact/</link>
+      <link>https://datasecoutpost.com/zh-cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jmiyamoto-sec.github.io/zh-cn/contact/</guid>
+      <guid>https://datasecoutpost.com/zh-cn/contact/</guid>
       <description></description>
     </item>
     

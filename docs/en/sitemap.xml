@@ -3,161 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/</loc>
+    <loc>https://datasecoutpost.com/blog/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/my-first-post/</loc>
+    <loc>https://datasecoutpost.com/blog/my-first-post/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/</loc>
+    <loc>https://datasecoutpost.com/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://jmiyamoto-sec.github.io/zh-cn/"
+                href="https://datasecoutpost.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jmiyamoto-sec.github.io/"
+                href="https://datasecoutpost.com/"
                 />
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/not-ready-yet/</loc>
+    <loc>https://datasecoutpost.com/blog/not-ready-yet/</loc>
     <lastmod>2020-11-19T17:46:17-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/about/</loc>
+    <loc>https://datasecoutpost.com/about/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://jmiyamoto-sec.github.io/zh-cn/about/"
+                href="https://datasecoutpost.com/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jmiyamoto-sec.github.io/about/"
+                href="https://datasecoutpost.com/about/"
                 />
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/categories/</loc>
+    <loc>https://datasecoutpost.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://jmiyamoto-sec.github.io/zh-cn/categories/"
+                href="https://datasecoutpost.com/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jmiyamoto-sec.github.io/categories/"
+                href="https://datasecoutpost.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/css/</loc>
+    <loc>https://datasecoutpost.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/html/</loc>
+    <loc>https://datasecoutpost.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/markdown/</loc>
+    <loc>https://datasecoutpost.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/markdown-syntax/</loc>
+    <loc>https://datasecoutpost.com/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/categories/syntax/</loc>
+    <loc>https://datasecoutpost.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/</loc>
+    <loc>https://datasecoutpost.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://jmiyamoto-sec.github.io/zh-cn/tags/"
+                href="https://datasecoutpost.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jmiyamoto-sec.github.io/tags/"
+                href="https://datasecoutpost.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/themes/</loc>
+    <loc>https://datasecoutpost.com/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/categories/themes/</loc>
+    <loc>https://datasecoutpost.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/privacy/</loc>
+    <loc>https://datasecoutpost.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/rich-content/</loc>
+    <loc>https://datasecoutpost.com/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/shortcodes/</loc>
+    <loc>https://datasecoutpost.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/placeholder-text/</loc>
+    <loc>https://datasecoutpost.com/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/text/</loc>
+    <loc>https://datasecoutpost.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/tags/emoji/</loc>
+    <loc>https://datasecoutpost.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/blog/emoji-support/</loc>
+    <loc>https://datasecoutpost.com/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jmiyamoto-sec.github.io/contact/</loc>
+    <loc>https://datasecoutpost.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://jmiyamoto-sec.github.io/zh-cn/contact/"
+                href="https://datasecoutpost.com/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jmiyamoto-sec.github.io/contact/"
+                href="https://datasecoutpost.com/contact/"
                 />
   </url>
   
